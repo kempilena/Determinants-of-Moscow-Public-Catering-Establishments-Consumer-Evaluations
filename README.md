@@ -9,3 +9,5 @@ The analysis of reviews is in the file Review_Analysis.ipynb. The main topics, s
 The geo analysis is in the file Geopart (2).ipynb. The data about amenities and other characteristics of cities were downloaded from OSM. The Moscow were divided into hexagons, the competitiveness and nearby facilities were calculated based on the neighbored hexagons.
 
 The creation of models is in the file Models.ipynb. 
+
+Made by Saveleva Maria, Novozhilova Varvara, Kempi Elena.
