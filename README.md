@@ -7,7 +7,7 @@ We analyzed reviews only of public catering establishments and only in the old b
 
 The analysis of reviews is in the file _Review_Analysis.ipynb_. The main topics, sentiments, sentiments of topics were identified.
 
-The geo analysis is in the file _Geopart (2).ipynb_. The data about amenities and other characteristics of cities were downloaded from OSM. The Moscow were divided into hexagons, the competitiveness and nearby facilities were calculated based on the neighbored hexagons.
+The geo analysis is in the file _Geo_part.ipynb_. The data about amenities and other characteristics of cities were downloaded from OSM. The Moscow were divided into hexagons, the competitiveness and nearby facilities were calculated based on the neighbored hexagons.
 
 The creation of models is in the file _Models.ipynb_. 
 
