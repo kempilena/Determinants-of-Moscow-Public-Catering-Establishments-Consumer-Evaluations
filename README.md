@@ -10,4 +10,4 @@ The geo analysis is in the file Geopart (2).ipynb. The data about amenities and 
 
 The creation of models is in the file Models.ipynb. 
 
-_Made by Saveleva Maria, Novozhilova Varvara, Kempi Elena._
+**_Made by Saveleva Maria, Novozhilova Varvara, Kempi Elena._**
